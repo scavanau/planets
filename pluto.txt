@@ -1,5 +1,8 @@
 It is so a planet!
-We added a different line in the other copy
 This line is added to Wolfman's copy
+We added a different line in the other copy
 We removed the conflict on this line
 
+=======
+This line is added to Wolfman's copy
+>>>>>>> f32e8c03544ffbaab0b85ccfdbfe7acf81177a22
